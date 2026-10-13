@@ -12,12 +12,6 @@
 
 I'm **Kaan**, a computer engineer working where markets meet machine learning. I collect my own data, straight from the exchange, and take it all the way to a model and a signal I can actually test.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaanUlusoytxt/KaanUlusoytxt/main/assets/heatmap-dark.svg">
-    <img src="https://raw.githubusercontent.com/KaanUlusoytxt/KaanUlusoytxt/main/assets/heatmap-light.svg" alt="Contribution calendar, last 12 months" width="780">
-  </picture>
-</p>
 
 ## Start here
 
@@ -38,25 +32,11 @@ End-to-end pipeline from live OKX trade flow to a 15-minute price-direction LSTM
 </tr>
 <tr>
 <td width="46%" valign="top">
-<a href="https://github.com/KaanUlusoytxt/nlp-phishing-detection"><img src="assets/card-phishing.png" alt="" width="100%"></a>
-</td>
-<td width="54%" valign="top">
-
-**02 / SECURITY**
-
-### [NLP phishing detection](https://github.com/KaanUlusoytxt/nlp-phishing-detection)
-
-Two-stage hybrid detector for phishing URLs and emails built on NLP models. Funded by TÜBİTAK 2209-A (2025/1), ongoing.
-
-</td>
-</tr>
-<tr>
-<td width="46%" valign="top">
 <a href="https://github.com/KaanUlusoytxt/passkeeper"><img src="assets/card-passkeeper.png" alt="" width="100%"></a>
 </td>
 <td width="54%" valign="top">
 
-**03 / TOOLS**
+**02 / TOOLS**
 
 ### [Passkeeper](https://github.com/KaanUlusoytxt/passkeeper)
 
@@ -70,7 +50,7 @@ A password manager that never leaves my machine: local desktop vault plus a sign
 </td>
 <td width="54%" valign="top">
 
-**04 / QUANT**
+**03 / QUANT**
 
 ### [bist-screener](https://github.com/KaanUlusoytxt/bist-screener)
 
